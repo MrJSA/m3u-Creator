@@ -60,4 +60,3 @@ for %%F in (*.chd) do (
 echo Created playlist: !outputFile!
 
 :end
-pause
