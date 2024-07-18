@@ -1,5 +1,7 @@
 # m3u-Creator
-It started with a .bat script I wrote to automatically create .m3u playlist for .chd files
+It started with a .bat script I wrote to automatically create .m3u playlist for .chd files and quickly became a much bigger repository.
+Now it contains batch scripts to convert different game image formats to the formats needed by different emulators.
+I try to keep everything togther, so you can easily convert the formats you need.
 
 ### I also included the CHDMAN files in this repo, so this repo is all you need to convert your CUE/GDI/ISO files to CHD and M3U
 
