@@ -24,7 +24,10 @@ Decompresses CHD (V5) to CUE. (CUE is used by CD-based games. On the Raspberry P
 Decompresses CHD (V5) to GDI. (GDI is used by Dreamcast.)
 
 ### ISO_to_CSO
-Compresses an ISO file to the CSO file format
+Compresses the disc format ISO  to  CSO. It will create the PBP file in the same folder this script is in using maxcso.
+
+### CUE_ISO_M3U_to_PBP
+Compresses the disc formats CUE/ISO/M3U to PBP. It will create the PBP file in the same folder this script is in using psxpackager.
 
 # Credits
 
