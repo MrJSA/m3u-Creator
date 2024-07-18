@@ -1,7 +1,7 @@
 # m3u-Creator
 It started with a .bat script I wrote to automatically create .m3u playlist for .chd files
 
-## I also included the CHDMAN files in this repo, so this repo is all you need to convert your CUE/GDI/ISO files to CHD and M3U
+### I also included the CHDMAN files in this repo, so this repo is all you need to convert your CUE/GDI/ISO files to CHD and M3U
 
 ### chd_m3u_creator
 makes a M3U file with the names of all the CHD files in the same folder as this script.
