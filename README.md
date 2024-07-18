@@ -3,7 +3,9 @@ It's a .bat script I wrote to automatically create .m3u playlist for .chd files
 
 Just place the script in the folder you have the .chd files and the script will create your .m3u automatically
 
-I also included the CHDMAN files in this repo, so you can convert your CUE/GDI/ISO files to CHD
+## I also included the CHDMAN files in this repo, so this repo is all you need to convert your CUE/GDI/ISO files to CHD and M3U
+
+###
 
 ### CUE_GDI_ISO_to_CHD
 Compresses either disc format to CHD (V5). (Will search all sub-folders and make CHDs in folder this is used in with CHDMAN.
