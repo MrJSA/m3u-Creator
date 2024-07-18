@@ -1,1 +1,1 @@
-for %i in (*.iso) do maxcso.exe "%i"
+for /r %%i in (*.iso) do maxcso.exe "%i"
