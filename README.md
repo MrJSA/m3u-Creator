@@ -23,8 +23,13 @@ Decompresses CHD (V5) to CUE. (CUE is used by CD-based games. On the Raspberry P
 ### CHD_to_GDI
 Decompresses CHD (V5) to GDI. (GDI is used by Dreamcast.)
 
+### ISO_to_CSO
+Compresses an ISO file to the CSO file format
+
 # Credits
 
 CHDMAN was developed by the amazing guys from [MAME](https://github.com/mamedev), so shoutout to them.
+
+MAXCSO was developed by [unknownbrackets](https://github.com/unknownbrackets), shoutout to him aswell.
 
 chd_m3u_creator by [MrJSA](https://github.com/MrJSA)
