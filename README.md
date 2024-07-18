@@ -19,3 +19,4 @@ Decompresses CHD (V5) to GDI. (GDI is used by Dreamcast.)
 # Credits
 
 I couldn't find any real info on who created CHDMAN, only one shoutout to [Zet-sensei](https://github.com/Zet-sensei) so shoutout to him here aswell.
+chd_m3u_creator by [MrJSA](https://github.com/MrJSA)
