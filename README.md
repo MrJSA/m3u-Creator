@@ -12,7 +12,10 @@ should do the same, but also include subfolders. If it is run twice, all CHD fil
 I have not tested it thoroughly yet.
 
 ### CUE_GDI_ISO_to_CHD
-Compresses either disc format to CHD (V5). (Will search all sub-folders and make CHDs in folder this is used in with CHDMAN.
+Compresses the disc formats CUE/GDI/ISO to CHD. It will create the CHD file in the same folder this script is in using CHDMAN.
+
+### CUE_GDI_ISO_to_CHD_subfolder
+Compresses the disc formats CUE/GDI/ISO to CHD. But different to the other script it will create the CHD file in the same folder as the original file is in.
 
 ### CHD_to_CUE
 Decompresses CHD (V5) to CUE. (CUE is used by CD-based games. On the Raspberry Pi, CHD is supported by TurboGrafx-CD/PC Engine CD, Sega CD/Mega CD, and Dreamcast)
