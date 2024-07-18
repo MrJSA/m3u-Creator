@@ -1,1 +1,1 @@
-for /r %%f in (*.rvz) do DolphinTool.exe convert -i "%%f" -o "%%~nf.iso" -f iso -s
+for /r %%f in (*.rvz) do dolphintool.exe convert -i "%%f" -o "%%~nf.iso" -f iso -s
