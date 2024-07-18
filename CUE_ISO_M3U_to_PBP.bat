@@ -1,0 +1,1 @@
+for /r %%i in (.cue, .iso, *.m3u) do psxpackager.exe -l 9 -i "%i" -o "%i".pbp
