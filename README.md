@@ -12,10 +12,10 @@ should do the same, but also include subfolders. If it is run twice, all CHD fil
 I have not tested it thoroughly yet.
 
 ### CUE_GDI_ISO_to_CHD
-Compresses the disc formats CUE/GDI/ISO to CHD. It will create the CHD file in the same folder this script is in using CHDMAN.
+Compresses the disc formats CUE/GDI/ISO to CHD. It will create the CHD file in the same folder this script is in, using CHDMAN.
 
 ### CUE_GDI_ISO_to_CHD_subfolder
-Compresses the disc formats CUE/GDI/ISO to CHD. But different to the other script it will create the CHD file in the same folder as the original file is in.
+Compresses the disc formats CUE/GDI/ISO to CHD. But different to the other script, it will create the CHD file in the same folder as the original file is in.
 
 ### CHD_to_CUE
 Decompresses CHD (V5) to CUE. (CUE is used by CD-based games. On the Raspberry Pi, CHD is supported by TurboGrafx-CD/PC Engine CD, Sega CD/Mega CD, and Dreamcast)
@@ -24,13 +24,13 @@ Decompresses CHD (V5) to CUE. (CUE is used by CD-based games. On the Raspberry P
 Decompresses CHD (V5) to GDI. (GDI is used by Dreamcast.)
 
 ### ISO_to_CSO
-Compresses the disc format ISO  to  CSO. It will create the PBP file in the same folder this script is in using maxcso.
+Compresses the disc format ISO  to  CSO. It will create the PBP file in the same folder this script is in, using maxcso.
 
 ### CUE_ISO_M3U_to_PBP
-Compresses the disc formats CUE/ISO/M3U to PBP. It will create the PBP file in the same folder this script is in using psxpackager.
+Compresses the disc formats CUE/ISO/M3U to PBP. It will create the PBP file in the same folder this script is in, using psxpackager.
 
 ### RVZ_to_ISO
-Decompresses RVZ to ISO. It will create the ISO file in the same folder this script is in using DolphinTool.
+Decompresses RVZ to ISO. It will create the ISO file in the same folder this script is in, using DolphinTool.
 
 # Credits
 
