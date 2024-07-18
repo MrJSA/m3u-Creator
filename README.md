@@ -5,7 +5,11 @@ It started with a .bat script I wrote to automatically create .m3u playlist for 
 
 ### chd_m3u_creator
 makes a M3U file with the names of all the CHD files in the same folder as this script.
-Just place the script in the folder you have the .chd files and the script will create your .m3u automatically
+Just place the script in the folder you have the CHD files and the script will create your M3U automatically
+
+### chd_m3u_creator_subfolder
+should do the same, but also include subfolders. If it is run twice, all CHD files are also listed twice in the M3U file.
+I have not tested it thoroughly yet.
 
 ### CUE_GDI_ISO_to_CHD
 Compresses either disc format to CHD (V5). (Will search all sub-folders and make CHDs in folder this is used in with CHDMAN.
