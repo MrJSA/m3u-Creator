@@ -29,6 +29,9 @@ Compresses the disc format ISO  to  CSO. It will create the PBP file in the same
 ### CUE_ISO_M3U_to_PBP
 Compresses the disc formats CUE/ISO/M3U to PBP. It will create the PBP file in the same folder this script is in using psxpackager.
 
+### RVZ_to_ISO
+Decompresses RVZ to ISO. It will create the ISO file in the same folder this script is in using DolphinTool.
+
 # Credits
 
 CHDMAN was developed by the amazing guys from [MAME](https://github.com/mamedev), so shoutout to them.
@@ -36,5 +39,7 @@ CHDMAN was developed by the amazing guys from [MAME](https://github.com/mamedev)
 MAXCSO was developed by [unknownbrackets](https://github.com/unknownbrackets), shoutout to him aswell.
 
 psxpackager was developed by [RupertAvery](https://github.com/RupertAvery), shoutout to him.
+
+DolphinTool was developed by the amazing guys from [dolphin-emu](https://github.com/dolphin-emu)
 
 chd_m3u_creator by [MrJSA](https://github.com/MrJSA)
