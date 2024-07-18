@@ -35,4 +35,6 @@ CHDMAN was developed by the amazing guys from [MAME](https://github.com/mamedev)
 
 MAXCSO was developed by [unknownbrackets](https://github.com/unknownbrackets), shoutout to him aswell.
 
+psxpackager was developed by [RupertAvery](https://github.com/RupertAvery), shoutout to him.
+
 chd_m3u_creator by [MrJSA](https://github.com/MrJSA)
